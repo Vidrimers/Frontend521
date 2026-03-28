@@ -1,0 +1,5 @@
+.main {
+  min-height: calc(100vh - 82px - 41px);
+  padding: 20px 0;
+  /* display: flex; */
+}

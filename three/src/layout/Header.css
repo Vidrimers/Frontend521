@@ -1,0 +1,21 @@
+.header{
+  background: #625cd3;
+  padding: 20px;
+  color: white;
+  box-sizing: border-box;
+}
+
+.header .wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.right{
+  text-align: right;
+}
